@@ -9,4 +9,3 @@ describe('Headline', () => {
     }).not.toThrow()
   })
 })
-@Montana
